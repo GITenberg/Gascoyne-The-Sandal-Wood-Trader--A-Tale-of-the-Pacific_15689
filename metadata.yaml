@@ -1,0 +1,32 @@
+_repo: Gascoyne-The-Sandal-Wood-Trader--A-Tale-of-the-Pacific_15689
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15689-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ballantyne, R. M. (Robert Michael)
+    alias: Ballantyne, Robert Michael
+    birthdate: 1825
+    deathdate: 1894
+    gutenberg_agent_id: '333'
+    url: http://www.gutenberg.org/2009/agents/333
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Merchant ships -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+title: 'Gascoyne, The Sandal-Wood Trader: A Tale of the Pacific'
+url: http://www.gutenberg.org/ebooks/15689
